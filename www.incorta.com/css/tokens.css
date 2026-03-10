@@ -1,0 +1,45 @@
+/**
+ * SystemMiner Design Tokens
+ * Extracted from: https://www.incorta.com/
+ * Generated: 2026-03-10T00:51:17.650Z
+ * 
+ * Usage: Import this file in your index.css
+ * All tokens use --sm- prefix for namespacing
+ */
+
+:root {
+  /* ======================== */
+  /* Colors                   */
+  /* ======================== */
+  --sm-color-brand-primary: #4854fe; /* 70x */
+  --sm-color-brand-accent: #241c55; /* 90x */
+  --sm-color-brand-background: #ffffff; /* 60x */
+  --sm-color-0096ff: #0096ff; /* 6x */
+  --sm-color-350: #350; /* 1x */
+
+  /* ======================== */
+  /* Typography               */
+  /* ======================== */
+  --sm-font-family-1: Mulish; /* 180x */
+  --sm-font-heading-2: 48px; /* 90x */
+  --sm-font-body-3: 18px; /* 30x */
+  --sm-font-body-4: 20px; /* 30x */
+  --sm-font-family-5: Roboto; /* 20x */
+  --sm-font-heading-6: 32px; /* 10x */
+  --sm-font-heading-7: 36.8px; /* 10x */
+  --sm-font-heading-8: 60px; /* 10x */
+
+  /* ======================== */
+  /* Spacing                  */
+  /* ======================== */
+  --sm-spacing-xs: 4px; /* 60x */
+  --sm-spacing-xs-1: 3px; /* 6x */
+
+  /* ======================== */
+  /* Effects                  */
+  /* ======================== */
+  --sm-radius-1: 11px; /* 60x */
+  --sm-radius-2: 11.354px; /* 25x */
+  --sm-radius-3: 8px; /* 5x */
+
+}

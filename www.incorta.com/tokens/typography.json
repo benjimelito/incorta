@@ -1,0 +1,81 @@
+{
+  "font-family-1": {
+    "value": "Mulish",
+    "description": "Observed 180x on https://www.incorta.com, https://www.incorta.com/legal-pages/global-privacy-policy, https://www.incorta.com/contact, https://www.incorta.com/solutions/sap, https://www.incorta.com/blog/ai-reality-check, https://www.incorta.com/press-releases/incorta-raises-120m-in-series-d-funding-amid-soaring-global-demand-for-unified-data-analytics",
+    "usageCount": 180,
+    "observedOn": [
+      "https://www.incorta.com",
+      "https://www.incorta.com/legal-pages/global-privacy-policy",
+      "https://www.incorta.com/contact",
+      "https://www.incorta.com/solutions/sap",
+      "https://www.incorta.com/blog/ai-reality-check",
+      "https://www.incorta.com/press-releases/incorta-raises-120m-in-series-d-funding-amid-soaring-global-demand-for-unified-data-analytics"
+    ]
+  },
+  "font-heading-2": {
+    "value": "48px",
+    "description": "Observed 90x on https://www.incorta.com, https://www.incorta.com/legal-pages/global-privacy-policy, https://www.incorta.com/contact, https://www.incorta.com/solutions/sap, https://www.incorta.com/blog/ai-reality-check, https://www.incorta.com/press-releases/incorta-raises-120m-in-series-d-funding-amid-soaring-global-demand-for-unified-data-analytics",
+    "usageCount": 90,
+    "observedOn": [
+      "https://www.incorta.com",
+      "https://www.incorta.com/legal-pages/global-privacy-policy",
+      "https://www.incorta.com/contact",
+      "https://www.incorta.com/solutions/sap",
+      "https://www.incorta.com/blog/ai-reality-check",
+      "https://www.incorta.com/press-releases/incorta-raises-120m-in-series-d-funding-amid-soaring-global-demand-for-unified-data-analytics"
+    ]
+  },
+  "font-body-3": {
+    "value": "18px",
+    "description": "Observed 30x on https://www.incorta.com/legal-pages/global-privacy-policy, https://www.incorta.com/contact, https://www.incorta.com/solutions/sap",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.incorta.com/legal-pages/global-privacy-policy",
+      "https://www.incorta.com/contact",
+      "https://www.incorta.com/solutions/sap"
+    ]
+  },
+  "font-body-4": {
+    "value": "20px",
+    "description": "Observed 30x on https://www.incorta.com, https://www.incorta.com/blog/ai-reality-check, https://www.incorta.com/press-releases/incorta-raises-120m-in-series-d-funding-amid-soaring-global-demand-for-unified-data-analytics",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.incorta.com",
+      "https://www.incorta.com/blog/ai-reality-check",
+      "https://www.incorta.com/press-releases/incorta-raises-120m-in-series-d-funding-amid-soaring-global-demand-for-unified-data-analytics"
+    ]
+  },
+  "font-family-5": {
+    "value": "Roboto",
+    "description": "Observed 20x on https://www.incorta.com/legal-pages/global-privacy-policy, https://www.incorta.com/blog/ai-reality-check",
+    "usageCount": 20,
+    "observedOn": [
+      "https://www.incorta.com/legal-pages/global-privacy-policy",
+      "https://www.incorta.com/blog/ai-reality-check"
+    ]
+  },
+  "font-heading-6": {
+    "value": "32px",
+    "description": "Observed 10x on https://www.incorta.com/contact",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.incorta.com/contact"
+    ]
+  },
+  "font-heading-7": {
+    "value": "36.8px",
+    "description": "Observed 10x on https://www.incorta.com/solutions/sap",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.incorta.com/solutions/sap"
+    ]
+  },
+  "font-heading-8": {
+    "value": "60px",
+    "description": "Observed 10x on https://www.incorta.com",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.incorta.com"
+    ]
+  }
+}
